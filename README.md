@@ -1,6 +1,6 @@
 
 
-# **AI in Interactive Storytelling e**
+# **AI in Interactive Storytelling**
 
 ---
 
